@@ -22,4 +22,3 @@ if __name__ == "__main__":
 file = open(unique, 'w')
 file.write(output)
 file.close()
-print(output) 
